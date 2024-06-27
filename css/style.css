@@ -89,6 +89,7 @@ body {
   height: 100%;
   padding: 1rem;
   flex-direction: row;
+  transform: scaleY(-1);
 }
 .cell {
   display: flex;
